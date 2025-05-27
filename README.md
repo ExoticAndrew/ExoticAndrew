@@ -1,6 +1,6 @@
 ## 👋 Hi! I am Andrew Antunes
 
-<img align="right" height="180" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyNTQ1NzEsIm5iZiI6MTc0NzI1NDI3MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDIwMjQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhNWJkNjAyMGI0ZDU3NGEyYmQ1MmFiYzQ2YWVhNjVkNDc0ODQ5Y2QwZTllNDY2ZWVkODM4NzVmMzI1NjBhM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9d4TGPw7CHJ_c8sfPnlNMpH-F1aehYBoizDuSUVDnNM" />
+<img align="right" height="280" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 
 I am a student of **Systems Analysis and Development**, focused on learning Java, Spring Boot and web development.
 
