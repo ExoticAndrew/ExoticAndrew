@@ -1,6 +1,6 @@
 ## 👋 Hi! I am Andrew Antunes
 
-<img align="right" height="280" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
+<img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 
 I am a student of **Systems Analysis and Development**, focused on learning Java, Spring Boot and web development.
 
